@@ -1,4 +1,6 @@
-# GSoC'23 - PEcAn Project
+# <div align="center">GSoC'23 - PEcAn Project </div>
+
+![header](assets/header.png)
 
 ### Title : Improving Test Coverage for PEcAn Packages
 
