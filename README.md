@@ -24,7 +24,6 @@
 
 3) Adding methods and approaches to better unit and intergation testing to the PEcAn Documentation.
 
-### Timeline
-
-
 Link to Project : [GSoC Project Page](https://summerofcode.withgoogle.com/programs/2023/projects/ozz95eVk)
+
+Please visit the project [Wiki](https://github.com/meetagrawal09/GSoC-23-PEcAn_Project/wiki) for more details.
