@@ -4,6 +4,10 @@
 
 ### Title : Improving Test Coverage for PEcAn Packages
 
+### Mentors
+- Chris Black ([@infotroph](https://github.com/infotroph))
+- Michael Dietze ([@mdietze](https://github.com/mdietze))
+
 ### Deliverables
 1) Improving unit test coverage for PEcAn base packages
 
